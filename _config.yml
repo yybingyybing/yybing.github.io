@@ -41,9 +41,9 @@ gitment:
 
 #url: "https://bit-ranger.github.io/blog"
 #url: "http://localhost:4000/"
-url: "http://yybingyybing.github.io"
+url: "https://yybingyybing.github.io"
 #imgrepo: "https://bit-ranger.github.io/blog/static/img"
-imgrepo: "http://yybingyybing.github.io/static/img"
+imgrepo: "https://yybingyybing.github.io/static/img"
 
 
 #url: "http://127.0.0.1:4000"
