@@ -37,7 +37,7 @@ swiftype:
 gitment:
     repo: 
     client_id: e3f03ff88087909e1dc4
-    client_secret: d8c3df3635bfbb8b26be5f133c3196a2bc1c2799  
+    client_secret: d8c3df3635bfbb8b26be5f133c3196a2bc1c2799
 	
 gitalk:
     enable: true
