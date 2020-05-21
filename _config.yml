@@ -35,10 +35,17 @@ github:
 swiftype:
   searchId: iXZyPokVfxFaBTvi64Y6
 gitment:
-    repo: blog
-    client_id: a6fb73b3e790e234bab8
-    client_secret: cc10aaff53a03d05ab2ee002dbf401dd7627c7a3
-
+    repo: 
+    client_id: e3f03ff88087909e1dc4
+    client_secret: d8c3df3635bfbb8b26be5f133c3196a2bc1c2799  
+	
+gitalk:
+    enable: true
+    owner: yybingyybing
+    repo: yybingyybing.github.io
+    clientID: e3f03ff88087909e1dc4
+    clientSecret: d8c3df3635bfbb8b26be5f133c3196a2bc1c2799
+    admin: yybingyybing
 #url: "https://bit-ranger.github.io/blog"
 #url: "http://localhost:4000/"
 url: "https://yybingyybing.github.io"
