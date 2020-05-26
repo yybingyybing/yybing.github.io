@@ -8,7 +8,8 @@
 $(document).ready(function() {
     generateContent();
     // share();
-    gitment();
+    //gitment();
+	gitalk();
 });
 
 /**
@@ -43,3 +44,16 @@ function gitment() {
 }
 
 
+function gitalk(){
+	var gitalk = new Gitalk({
+	  clientID: 'e3f03ff88087909e1dc4',
+	  clientSecret: 'd8c3df3635bfbb8b26be5f133c3196a2bc1c2799',
+	  repo: 'yybingyybing',
+	  owner: 'yybingyybing',
+	  admin: ['yybingyybing'],
+	  id: location.pathname,      // Ensure uniqueness and length less than 50
+	  distractionFreeMode: false  // Facebook-like distraction free mode
+	})
+	
+	gitalk.render('gitalk-container')
+}

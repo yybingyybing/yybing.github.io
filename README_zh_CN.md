@@ -1,6 +1,6 @@
 # 博客地址
 
-<https://bit-ranger.github.io/blog/>
+<https://yybingyybing.github.io/>
 
 # 必改内容
 
@@ -31,3 +31,9 @@
 服务地址：<https://github.com/imsun/gitment>
 
 设置完毕后, 需要修改 `_config.yml` 中的 `gitment`。
+
+## 3.gitalk
+评论功能使用gitalk库
+
+库地址： <https://github.com/gitalk/gitalk>. 
+自己使用需要修改 post.js=> function gitalk()

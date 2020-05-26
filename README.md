@@ -1,8 +1,8 @@
-##[点我查看中文说明/Click here for Chinese instructions](https://github.com/bit-ranger/blog/blob/gh-pages/README_zh_CN.md)
+##[点我查看中文说明/Click here for Chinese instructions](https://yybingyybing.github.io/README_zh_CN.md)
 
 # Blog Address
 
-<https://bit-ranger.github.io/blog/>
+<https://yybingyybing.github.io/>
 
 
 # Must Modify
@@ -34,3 +34,8 @@ This service provides the comment function.
 Service address： <https://github.com/imsun/gitment>.
 
 After the setup is complete， you need to modify the `gitment`  in `_config.yml`.
+
+## 3.gitalk
+This service provides the comment function.
+
+Service address： <https://github.com/gitalk/gitalk>. 
