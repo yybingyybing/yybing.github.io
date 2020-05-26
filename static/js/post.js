@@ -48,7 +48,7 @@ function gitalk(){
 	var gitalk = new Gitalk({
 	  clientID: 'e3f03ff88087909e1dc4',
 	  clientSecret: 'd8c3df3635bfbb8b26be5f133c3196a2bc1c2799',
-	  repo: 'yybingyybing',
+	  repo: 'yybingyybing.github.io',
 	  owner: 'yybingyybing',
 	  admin: ['yybingyybing'],
 	  id: location.pathname,      // Ensure uniqueness and length less than 50
