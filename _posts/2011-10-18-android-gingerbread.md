@@ -1,6 +1,6 @@
 ---
 title: GingerBread 定制之乱弹
-tags: android 系统 定制
+tags: android C C++ driver linux java
 categories: android
 ---
 

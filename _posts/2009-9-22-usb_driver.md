@@ -1,6 +1,6 @@
 ---
 title: Windows&nbsp;USB功能驱动开发总结
-tags: USB C语言 设备 硬件
+tags: USB C C++ driver linux
 categories: driver
 ---
 		
